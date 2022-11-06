@@ -1,6 +1,6 @@
 # v_package_template
 
-A V template for packages, including MIT license and a dev container.
+A V template for packages, including MIT license, a dev container and GitHub Actions workflows.
 
 ## Quick start guide
 
